@@ -1,0 +1,1 @@
+The project aims to design and implement an order management system utilizing a database with 3 tables, enabling various operations on orders. Solutions will be constructed and validated to demonstrate their correctness. Users will interact with the application through an intuitive graphical interface facilitating order management operations.
